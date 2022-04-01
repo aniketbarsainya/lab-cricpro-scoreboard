@@ -1,1 +1,0 @@
-# lab-cricpro-scoreboard
